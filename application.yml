@@ -1,3 +1,4 @@
 spring:
   application:
     name: MyApp
+  port: 8088
